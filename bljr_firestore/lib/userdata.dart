@@ -10,6 +10,7 @@ class UserData{
       'nama': this.nama,
       'umur': this.umur,
       'email': this.email
+      
     };
   }
 }
